@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Wondie 👋
 
-<!--
-**wondie3/wondie3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Third-Year Computer Science Student at Addis Ababa University**
 
-Here are some ideas to get you started:
+I'm passionate about programming, problem-solving, and building practical software applications. I enjoy exploring new technologies, improving my coding skills, and turning ideas into useful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- **Programming:** C++, Java, SQL
+- **Databases:** MySQL, SQLite, PostgreSQL
+- **Tools:** Git, GitHub, VS Code, Qt
+
+### 🌱 Currently Learning
+- Web development and modern technologies
+- Software design and development best practices
+- Building reliable, user-friendly applications
+
+### 🎯 Goals
+To grow as a developer, contribute to meaningful projects, and collaborate with people who share my passion for technology.
+
+### 🤝 Let's Connect
+I'm always open to learning opportunities, sharing knowledge, and connecting with fellow developers.
+
+📌 **GitHub:** [@wondie3](https://github.com/wondie3)
