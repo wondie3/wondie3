@@ -71,6 +71,11 @@ Check out my projects, experiments, and development journey.
 
 ---
 
+---
+
+
+---
+
 ### 📊 GitHub Statistics
 
 <p align="center">
@@ -84,13 +89,6 @@ Check out my projects, experiments, and development journey.
   <img src="https://streak-stats.demolab.com?user=wondie3&theme=transparent&hide_border=true&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub Contribution Streak" />
 </p>
 
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wondie3&theme=transparent&hide_border=true&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub Contribution Streak"/>
-</p>
 <p align="center">
   <i>Always learning. Always building. Always improving.</i>
 </p>
