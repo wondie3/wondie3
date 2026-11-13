@@ -65,29 +65,6 @@ Check out my projects, experiments, and development journey.
 
 🌐 [Visit My Portfolio](https://wondie-portfolio.vercel.app/)
 
----
----
-
-
----
-
----
-
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wondie3&show_icons=true&theme=transparent&hide_border=true&title_color=2ECC71&icon_color=2ECC71&text_color=9CA3AF&rank_icon=github" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wondie3&layout=compact&theme=transparent&hide_border=true&title_color=2ECC71&text_color=9CA3AF" height="180" alt="Top Languages" />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wondie3&theme=transparent&hide_border=true&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub Contribution Streak" />
-</p>
 
 <p align="center">
   <i>Always learning. Always building. Always improving.</i>
